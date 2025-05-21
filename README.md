@@ -1,5 +1,5 @@
 # HCM NIfTI QC Viewer
-
+![Static Badge](https://img.shields.io/badge/under_dev-not_release-blue)
 ## Overview
 HCM NIfTI QC Viewer is a Python-based application designed for visualizing and performing quality control on NIfTI (.nii.gz) files. The application provides functionalities to animate slices, load different files, and save quality control comments.
 ![UI](example_files/QCUI.png "Software UI")
@@ -34,7 +34,7 @@ We have uploaded a example QC_logs.json in the repo, please use your own way to 
    git clone https://github.com/yourusername/HCMQC.git
    cd HCMQC
 
---- Known Issue ---
+--- Known Issues ---
 1. Click 'Next' or 'Back' button, will double the play speed. Click Stop Animation will solve the issue
 
 --- Pyinstaller CMDs ---
