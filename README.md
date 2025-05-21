@@ -1,1 +1,1 @@
-# segmentation_QCtool
+# Cardiac Segmentation QC tool
